@@ -1,1 +1,2 @@
-cat smiley
+#!bin/bash
+echo "(Ôo)'
